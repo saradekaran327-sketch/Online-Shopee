@@ -40,4 +40,6 @@ Academic Mini Project
 
 ## Developed By
 
+Karan A Sarade
+
 Computer Engineering Student
